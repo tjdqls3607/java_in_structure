@@ -10,7 +10,7 @@ public class Start3 {
             int p = k +10;
             k = p;
         }
-
+        //System.out.println(m);
         //k = m + p;
     }
 }
