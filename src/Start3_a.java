@@ -17,6 +17,8 @@ public class Start3_a {
 }
 
 
+
+
 /*
 T메모리에는 static, stack, hip 영역이 있는데 각각 의 영역에 저장되는 변수들이 있다.
 지역변수(local variable)
