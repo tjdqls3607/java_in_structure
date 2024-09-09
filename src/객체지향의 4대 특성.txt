@@ -1,0 +1,9 @@
+캡상추다
+
+캡 - 캡슐화(Encapsulation) : 정보은닉(Information hiding)
+
+상 - 상속 : 재사용
+
+추 - 추상화(Abstraction) :모델링
+
+다 - 다형성(Polymorphism) : 사용 편의
