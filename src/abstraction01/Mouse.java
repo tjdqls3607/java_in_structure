@@ -1,4 +1,4 @@
-package src;
+package abstraction01;
 
 public class Mouse {
     public String name;
